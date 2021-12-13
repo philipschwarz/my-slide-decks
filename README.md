@@ -3,7 +3,7 @@
 This page is WIP
 
 * [Hyperlinked Title](#hyperlinked-title)
-* [Hyperlinked Title Plus Firs Slide](#hyperlinked-title-plus-first-slide)
+* [Hyperlinked Title Plus First Slide](#hyperlinked-title-plus-first-slide)
 
 # Hyperlinked Title (Sorted by publication date) - hyperlinked title <a name="hyperlinked-title"></a>
 

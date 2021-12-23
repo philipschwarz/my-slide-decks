@@ -13,6 +13,7 @@ This page is WIP
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 4](https://www.slideshare.net/pjschwarz/n-queens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
 * [Quicksort - a whistle-stop tour of the algorithm in five languages and four paradigms](https://www.slideshare.net/pjschwarz/quicksort-a-whistlestop-tour-of-the-algorithm-in-five-languages-and-four-paradigms)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3)
+* [Left and Right Folds Comparison of a mathematical definition and a programmatic one](https://www.slideshare.net/pjschwarz/left-and-right-folds-comparison-of-a-mathematical-definition-and-a-programmatic-one-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 1](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1)
 
@@ -35,6 +36,9 @@ This page is WIP
 
 ### [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3)
 ![N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 3](images/n-queens-combinatorial-problem-polyglot-fp-for-fun-and-profit–haskell-and-scala-part-3.png)
+
+### [Left and Right Folds Comparison of a mathematical definition and a programmatic one](https://www.slideshare.net/pjschwarz/left-and-right-folds-comparison-of-a-mathematical-definition-and-a-programmatic-one-polyglot-fp-for-fun-and-profit-haskell-and-scala)
+![Left and Right Folds Comparison of a mathematical definition and a programmatic one](images/left-and-right-folds-comparison-of-a-mathematical-definition-and-a-programmatic-one.png)
 
 ### [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2)
 ![N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 2](images/n-queens-combinatorial-problem-polyglot-fp-for-fun-and-profit–haskell-and-scala-part-2.png)

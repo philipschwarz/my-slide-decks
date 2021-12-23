@@ -4,6 +4,7 @@ This page is WIP
 
 * [List of hyperlinked titles](#hyperlinked-title)
 * [List of hyperlinked titles, each accompanied by first slide](#hyperlinked-title-plus-first-slide)
+* [List of Slide Deck Series](#list-of-slide-deck-series)
 
 ## Hyperlinked titles (sorted by publication date) <a name="hyperlinked-title"></a>
 
@@ -16,6 +17,10 @@ This page is WIP
 * [Left and Right Folds Comparison of a mathematical definition and a programmatic one](https://www.slideshare.net/pjschwarz/left-and-right-folds-comparison-of-a-mathematical-definition-and-a-programmatic-one-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 1](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1)
+
+## List of Slide Deck Series <a name="list-of-slide-deck-series"></a>
+
+N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - [Part 1](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1) - [Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2) - [Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3) - [Part 4](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
 

@@ -10,6 +10,7 @@ This page is WIP
 * [‘go-to’ general-purpose sequential collections - from Java To Scala](https://www.slideshare.net/pjschwarz/goto-generalpurpose-sequential-collections-from-java-to-scala)
 * [The Functional Programming Triad of map, filter and fold - Polyglot FP for Fun and Profit - Scheme, Clojure, Scala, Haskell, Unison](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-map-filter-and-fold)
 * [Functional Core and Imperative Shell - Game of Life Example - Haskell and Scala](https://www.slideshare.net/pjschwarz/functional-core-and-imperative-shell-game-of-life-example-haskell-and-scala)
+* [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 4](https://www.slideshare.net/pjschwarz/n-queens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
 * [Quicksort - a whistle-stop tour of the algorithm in five languages and four paradigms](https://www.slideshare.net/pjschwarz/quicksort-a-whistlestop-tour-of-the-algorithm-in-five-languages-and-four-paradigms)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2)
@@ -25,6 +26,9 @@ This page is WIP
 
 ### [Functional Core and Imperative Shell - Game of Life Example - Haskell and Scala](https://www.slideshare.net/pjschwarz/functional-core-and-imperative-shell-game-of-life-example-haskell-and-scala)
 ![Functional Core and Imperative Shell - Game of Life Example - Haskell and Scala](images/functional-core-and-imperative-shell-game-of-life-example.png)
+
+### [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 4](https://www.slideshare.net/pjschwarz/n-queens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
+![N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 4](images/n-queens-combinatorial-problem-polyglot-fp-for-fun-and-profit–haskell-and-scala-part-4.png)
 
 ### [Quicksort - a whistle-stop tour of the algorithm in five languages and four paradigms](https://www.slideshare.net/pjschwarz/quicksort-a-whistlestop-tour-of-the-algorithm-in-five-languages-and-four-paradigms)
 ![Quicksort - a whistle-stop tour of the algorithm in five languages and four paradigms](images/quicksort-a-whistle-stop-tour-of-the-algorithm-in-five-languages-and-four-paradigms.png)

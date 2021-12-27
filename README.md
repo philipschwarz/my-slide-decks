@@ -17,7 +17,7 @@ This page is WIP
 * [Left and Right Folds Comparison of a mathematical definition and a programmatic one](https://www.slideshare.net/pjschwarz/left-and-right-folds-comparison-of-a-mathematical-definition-and-a-programmatic-one-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 1](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1)
-* [Sierpinski’s Triangle Polyglot FP for Fun and Profit Haskell and Scala](https://www.slideshare.net/pjschwarz/sierpinski-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala)
+* [Sierpinski’s Triangle - Polyglot FP for Fun and Profit - Haskell and Scala](https://www.slideshare.net/pjschwarz/sierpinski-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
 
@@ -48,8 +48,8 @@ This page is WIP
 ### [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 1](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1)
 ![N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - Part 1](images/n-queens-combinatorial-problem-polyglot-fp-for-fun-and-profit–haskell-and-scala-part-1.png)
 
-### [Sierpinski’s Triangle Polyglot FP for Fun and Profit Haskell and Scala](https://www.slideshare.net/pjschwarz/sierpinski-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala)
-![Sierpinski’s Triangle Polyglot FP for Fun and Profit Haskell and Scala](images/sierpinskis-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala.png)
+### [Sierpinski’s Triangle - Polyglot FP for Fun and Profit - Haskell and Scala](https://www.slideshare.net/pjschwarz/sierpinski-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala)
+![Sierpinski’s Triangle - Polyglot FP for Fun and Profit - Haskell and Scala](images/sierpinskis-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala.png)
 
 ## List of Slide Deck Series <a name="list-of-slide-deck-series"></a>
 

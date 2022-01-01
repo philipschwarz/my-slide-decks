@@ -8,6 +8,7 @@ This page is WIP
 
 ## Hyperlinked titles (sorted by publication date) <a name="hyperlinked-title"></a>
 
+* [Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Scala](https://www.slideshare.net/pjschwarz/refactoring-a-first-example-martin-fowlers-first-example-of-refactoring-adapted-to-scala)
 * [‘go-to’ general-purpose sequential collections - from Java To Scala](https://www.slideshare.net/pjschwarz/goto-generalpurpose-sequential-collections-from-java-to-scala)
 * [The Functional Programming Triad of map, filter and fold - Polyglot FP for Fun and Profit - Scheme, Clojure, Scala, Haskell, Unison](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-map-filter-and-fold)
 * [Functional Core and Imperative Shell - Game of Life Example - Haskell and Scala](https://www.slideshare.net/pjschwarz/functional-core-and-imperative-shell-game-of-life-example-haskell-and-scala)
@@ -21,6 +22,9 @@ This page is WIP
 * [Function Applicative for Great Good of Palindrome Checker Function - Polyglot FP for Fun and Profit - Haskell and Scala](https://www.slideshare.net/pjschwarz/function-applicative-for-great-good-of-palindrome-checker-function-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
+
+### [Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Scala](https://www.slideshare.net/pjschwarz/refactoring-a-first-example-martin-fowlers-first-example-of-refactoring-adapted-to-scala)
+![Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Scala](images/refactoring-a-first-example-the-refactoring-example-by-martin-fowler-adapted-to-scala.png?raw=true )
 
 ### [‘go-to’ general-purpose sequential collections - from Java To Scala](https://www.slideshare.net/pjschwarz/goto-generalpurpose-sequential-collections-from-java-to-scala)
 ![‘go-to’ general-purpose sequential collections - from Java To Scala](images/goto-general-purpose-sequential-collections-from-java-to-scala.png?raw=true )

@@ -69,10 +69,10 @@ This page is WIP
 
 ## List of Slide Deck Series <a name="list-of-slide-deck-series"></a>
 
-N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - 
+* N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - 
 [Part 1](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1) - 
 [Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2) - 
 [Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3) - 
 [Part 4](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
-Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - 
+* Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - 
 [Part 5](https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-5)

@@ -22,6 +22,7 @@ This page is WIP
 * [Function Applicative for Great Good of Palindrome Checker Function - Polyglot FP for Fun and Profit - Haskell and Scala](https://www.slideshare.net/pjschwarz/function-applicative-for-great-good-of-palindrome-checker-function-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 * [Scala 3 enum for a terser Option Monad Algebraic Data Type](https://www.slideshare.net/pjschwarz/scala-3-enum-for-a-terser-option-monad-algebraic-data-type)
 * [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 5](https://www.slideshare.net/pjschwarz/https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-5)
+* [The Functional Programming Triad of Folding, Scanning and Iteration - a first example in Scala and Haskell - Polyglot FP for Fun and Profit](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-folding-scanning-and-iteration-a-first-example-in-scala-and-haskell-polyglot-fp-for-fun-and-profit)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
 
@@ -66,6 +67,10 @@ This page is WIP
 
 ### [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 5](https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-5)
 ![Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 5](images/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-5.png)
+
+### [The Functional Programming Triad of Folding, Scanning and Iteration - a first example in Scala and Haskell - Polyglot FP for Fun and Profit](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-folding-scanning-and-iteration-a-first-example-in-scala-and-haskell-polyglot-fp-for-fun-and-profit)
+![The Functional Programming Triad of Folding, Scanning and Iteration - a first example in Scala and Haskell - Polyglot FP for Fun and Profit](images/the-functional-programming-triad-of-folding-scanning-and-iteration-a-first-example-in-scala-and-haskell-polyglot-fp-for-fun-and-profit.png)
+
 
 ## List of Slide Deck Series <a name="list-of-slide-deck-series"></a>
 

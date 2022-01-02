@@ -21,6 +21,7 @@ This page is WIP
 * [Sierpinski’s Triangle - Polyglot FP for Fun and Profit - Haskell and Scala](https://www.slideshare.net/pjschwarz/sierpinski-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 * [Function Applicative for Great Good of Palindrome Checker Function - Polyglot FP for Fun and Profit - Haskell and Scala](https://www.slideshare.net/pjschwarz/function-applicative-for-great-good-of-palindrome-checker-function-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 * [Scala 3 enum for a terser Option Monad Algebraic Data Type](https://www.slideshare.net/pjschwarz/scala-3-enum-for-a-terser-option-monad-algebraic-data-type)
+* [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala](https://www.slideshare.net/pjschwarz/https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-5)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
 
@@ -63,6 +64,15 @@ This page is WIP
 ### [Scala 3 enum for a terser Option Monad Algebraic Data Type](https://www.slideshare.net/pjschwarz/scala-3-enum-for-a-terser-option-monad-algebraic-data-type)
 ![Scala 3 enum for a terser Option Monad Algebraic Data Type](images/scala-3-enum-for-terser-option-monad-algebraic-data-type.png)
 
+### [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala](https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-5)
+![Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala](images/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-5.png)
+
 ## List of Slide Deck Series <a name="list-of-slide-deck-series"></a>
 
-N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - [Part 1](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1) - [Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2) - [Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3) - [Part 4](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
+N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - 
+[Part 1](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1) - 
+[Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2) - 
+[Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3) - 
+[Part 4](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
+Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - 
+[Part 5](https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-5)

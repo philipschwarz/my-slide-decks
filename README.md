@@ -8,6 +8,7 @@ This page is WIP
 
 ## Hyperlinked titles (sorted by publication date) <a name="hyperlinked-title"></a>
 
+* [Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Java](https://www.slideshare.net/pjschwarz/refactoring-a-first-example-martin-fowlers-first-example-of-refactoring-adapted-to-java)
 * [Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Scala](https://www.slideshare.net/pjschwarz/refactoring-a-first-example-martin-fowlers-first-example-of-refactoring-adapted-to-scala)
 * [‘go-to’ general-purpose sequential collections - from Java To Scala](https://www.slideshare.net/pjschwarz/goto-generalpurpose-sequential-collections-from-java-to-scala)
 * [The Functional Programming Triad of map, filter and fold - Polyglot FP for Fun and Profit - Scheme, Clojure, Scala, Haskell, Unison](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-map-filter-and-fold)
@@ -25,6 +26,9 @@ This page is WIP
 * [The Functional Programming Triad of Folding, Scanning and Iteration - a first example in Scala and Haskell - Polyglot FP for Fun and Profit](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-folding-scanning-and-iteration-a-first-example-in-scala-and-haskell-polyglot-fp-for-fun-and-profit)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
+
+### [Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Java](https://www.slideshare.net/pjschwarz/refactoring-a-first-example-martin-fowlers-first-example-of-refactoring-adapted-to-java)
+![Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Java](images/refactoring-a-first-example-the-refactoring-example-by-martin-fowler-adapted-to-java.png?raw=true )
 
 ### [Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Scala](https://www.slideshare.net/pjschwarz/refactoring-a-first-example-martin-fowlers-first-example-of-refactoring-adapted-to-scala)
 ![Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Scala](images/refactoring-a-first-example-the-refactoring-example-by-martin-fowler-adapted-to-scala.png?raw=true )

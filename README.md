@@ -8,6 +8,7 @@ This page is WIP
 
 ## Hyperlinked titles (sorted by publication date) <a name="hyperlinked-title"></a>
 
+* [Computer Graphics n Java and Scala - Part 1](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1)
 * [The Expression Problem - Part 1](https://www.slideshare.net/pjschwarz/the-expression-problem-part-1)
 * [Scala and Java Side by Side - The Result of Martin Fowler’s 1st Refactoring Example](https://www.slideshare.net/pjschwarz/side-by-side-scala-and-java-adaptations-of-martin-fowlers-javascript-refactoring-example-251038072)
 * [Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Java](https://www.slideshare.net/pjschwarz/refactoring-a-first-example-martin-fowlers-first-example-of-refactoring-adapted-to-java)
@@ -28,6 +29,9 @@ This page is WIP
 * [The Functional Programming Triad of Folding, Scanning and Iteration - a first example in Scala and Haskell - Polyglot FP for Fun and Profit](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-folding-scanning-and-iteration-a-first-example-in-scala-and-haskell-polyglot-fp-for-fun-and-profit)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
+
+###[Computer Graphics n Java and Scala - Part 1](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1)
+![Computer Graphics n Java and Scala - Part 1](images/computer-graphics-in-java-and-scala-part-1.png?raw=true)
 
 ### [The Expression Problem - Part 1](https://www.slideshare.net/pjschwarz/the-expression-problem-part-1)
 ![The Expression Problem - Part 1](images/the-expression-problem-part-1.png?raw=true )
@@ -86,6 +90,10 @@ This page is WIP
 
 ## List of Slide Deck Series <a name="list-of-slide-deck-series"></a>
 
+* Computer Graphics in Java and Scala 
+[Part 1](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1)
+* The Expression Problem
+[Part 1](https://www.slideshare.net/pjschwarz/the-expression-problem-part-1)
 * N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Haskell and Scala - 
 [Part 1](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1) - 
 [Part 2](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2) - 

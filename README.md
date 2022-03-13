@@ -8,7 +8,7 @@ This page is WIP
 
 ## Hyperlinked titles (sorted by publication date) <a name="hyperlinked-title"></a>
 
-* [Computer Graphics n Java and Scala - Part 1](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1)
+* [Computer Graphics in Java and Scala - Part 1](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1)
 * [The Expression Problem - Part 1](https://www.slideshare.net/pjschwarz/the-expression-problem-part-1)
 * [Scala and Java Side by Side - The Result of Martin Fowler’s 1st Refactoring Example](https://www.slideshare.net/pjschwarz/side-by-side-scala-and-java-adaptations-of-martin-fowlers-javascript-refactoring-example-251038072)
 * [Refactoring: A First Example - Martin Fowler’s First Example of Refactoring, Adapted to Java](https://www.slideshare.net/pjschwarz/refactoring-a-first-example-martin-fowlers-first-example-of-refactoring-adapted-to-java)
@@ -30,8 +30,8 @@ This page is WIP
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
 
-###[Computer Graphics n Java and Scala - Part 1](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1)
-![Computer Graphics n Java and Scala - Part 1](images/computer-graphics-in-java-and-scala-part-1.png?raw=true)
+###[Computer Graphics in Java and Scala - Part 1](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1)
+![Computer Graphics in Java and Scala - Part 1](images/computer-graphics-in-java-and-scala-part-1.png?raw=true)
 
 ### [The Expression Problem - Part 1](https://www.slideshare.net/pjschwarz/the-expression-problem-part-1)
 ![The Expression Problem - Part 1](images/the-expression-problem-part-1.png?raw=true )

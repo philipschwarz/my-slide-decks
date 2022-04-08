@@ -33,12 +33,19 @@ This page is WIP
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
 
 ### [Computer Graphics in Java and Scala - Part 1b](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1b)
+
 ---
+
 ![Computer Graphics in Java and Scala - Part 1b](images/computer-graphics-in-java-and-scala-part-1b.png?raw=true)
+
 ---
+
 ### [The Expression Problem - Part 2](https://www.slideshare.net/pjschwarz/the-expression-problem-part-2)
+
 ---
+
 ![The Expression Problem - Part 2](images/the-expression-problem-part-2.png?raw=true )
+
 ---
 ### [Computer Graphics in Java and Scala - Part 1](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1)
 ---

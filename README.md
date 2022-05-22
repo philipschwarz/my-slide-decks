@@ -8,6 +8,7 @@ This page is WIP
 
 ## Hyperlinked titles (sorted by publication date) <a name="hyperlinked-title"></a>
 
+* [The Sieve of Eratosthenes - Part 1](https://www.slideshare.net/pjschwarz/the-sieve-of-eratosthenes-part-1)
 * [The Uniform Access Principle](https://www.slideshare.net/pjschwarz/the-uniform-access-principle)
 * [Computer Graphics in Java and Scala - Part 1b](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1b)
 * [The Expression Problem - Part 2](https://www.slideshare.net/pjschwarz/the-expression-problem-part-2)
@@ -32,6 +33,14 @@ This page is WIP
 * [The Functional Programming Triad of Folding, Scanning and Iteration - a first example in Scala and Haskell - Polyglot FP for Fun and Profit](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-folding-scanning-and-iteration-a-first-example-in-scala-and-haskell-polyglot-fp-for-fun-and-profit)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
+
+### [The Sieve of Eratosthenes - Part 1](https://www.slideshare.net/pjschwarz/the-sieve-of-eratosthenes-part-1)
+
+---
+
+![The Sieve of Eratosthenes - Part 1](images/sieve-of-eratosthenes-part-1.png?raw=true)
+
+---
 
 ### [The Uniform Access Principle](https://www.slideshare.net/pjschwarz/the-uniform-access-principle)
 

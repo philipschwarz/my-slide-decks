@@ -8,6 +8,9 @@ This page is WIP
 
 ## Hyperlinked titles (sorted by publication date) <a name="hyperlinked-title"></a>
 
+* [Sum and Product Types - The Fruit Salad & Fruit Snack Example - From F# to Haskell, Scala and Java](https://www.slideshare.net/pjschwarz/sum-and-product-types-the-fruit-salad-fruit-snack-example-from-f-to-haskell-scala-and-java)
+* [Algebraic Data Types for Data Oriented Programming](https://www.slideshare.net/pjschwarz/algebraic-data-types-fordata-oriented-programming-from-haskell-and-scala-to-java)
+* [Jordan Peterson - The Pursuit of Meaning and Related Axioms](https://www.slideshare.net/pjschwarz/jordan-peterson-the-pursuit-of-meaning-and-related-axioms)
 * [The Sieve of Eratosthenes - Part 1](https://www.slideshare.net/pjschwarz/the-sieve-of-eratosthenes-part-1)
 * [The Uniform Access Principle](https://www.slideshare.net/pjschwarz/the-uniform-access-principle)
 * [Computer Graphics in Java and Scala - Part 1b](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1b)
@@ -33,6 +36,30 @@ This page is WIP
 * [The Functional Programming Triad of Folding, Scanning and Iteration - a first example in Scala and Haskell - Polyglot FP for Fun and Profit](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-folding-scanning-and-iteration-a-first-example-in-scala-and-haskell-polyglot-fp-for-fun-and-profit)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
+
+### [Sum and Product Types - The Fruit Salad & Fruit Snack Example - From F# to Haskell, Scala and Java](https://www.slideshare.net/pjschwarz/sum-and-product-types-the-fruit-salad-fruit-snack-example-from-f-to-haskell-scala-and-java)
+
+---
+
+![Sum and Product Types - The Fruit Salad & Fruit Snack Example - From F# to Haskell, Scala and Java](images/sum-and-product-types-the-fruit-salad-and-fruit-snack-example-from-f-sharp-to-haskell-scala-java.png?raw=true)
+
+---
+
+### [Algebraic Data Types for Data Oriented Programming](https://www.slideshare.net/pjschwarz/algebraic-data-types-fordata-oriented-programming-from-haskell-and-scala-to-java)
+
+---
+
+![Algebraic Data Types for Data Oriented Programming](images/algebraic-data-types-for-data-oriented-programming-from-haskell-and-scala-to-java.png?raw=true)
+
+---
+
+### [Jordan Peterson - The Pursuit of Meaning and Related Axioms](https://www.slideshare.net/pjschwarz/jordan-peterson-the-pursuit-of-meaning-and-related-axioms)
+
+---
+
+![Jordan Peterson - The Pursuit of Meaning and Related Axioms](images/jordan-peterson-the-pursuit-of-meaning-and-related-axioms.png?raw=true)
+
+---
 
 ### [The Sieve of Eratosthenes - Part 1](https://www.slideshare.net/pjschwarz/the-sieve-of-eratosthenes-part-1)
 

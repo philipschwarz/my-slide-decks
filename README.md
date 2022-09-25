@@ -7,7 +7,9 @@ This page is WIP
 * [List of Slide Deck Series](#list-of-slide-deck-series)
 
 ## Hyperlinked titles (sorted by publication date) <a name="hyperlinked-title"></a>
-
+* [The aggregate function - from sequential and parallel folds to parallel aggregation - Java and Scala](https://www.slideshare.net/pjschwarz/the-aggregate-function-from-sequential-and-parallel-folds-to-parallel-aggregation-java-and-scala)
+* [Nat, List and Option Monoids - from scratch - Combining and Folding - an example](https://www.slideshare.net/pjschwarz/nat-list-and-option-monoids-from-scratch-combining-and-folding-an-example)
+* [The Sieve of Eratosthenes - Part 2](https://www.slideshare.net/pjschwarz/the-sieve-of-eratosthenes-part-ii-genuine-versus-unfaithful-sieve-haskell-and-scala)
 * [Sum and Product Types - The Fruit Salad & Fruit Snack Example - From F# to Haskell, Scala and Java](https://www.slideshare.net/pjschwarz/sum-and-product-types-the-fruit-salad-fruit-snack-example-from-f-to-haskell-scala-and-java)
 * [Algebraic Data Types for Data Oriented Programming](https://www.slideshare.net/pjschwarz/algebraic-data-types-fordata-oriented-programming-from-haskell-and-scala-to-java)
 * [Jordan Peterson - The Pursuit of Meaning and Related Axioms](https://www.slideshare.net/pjschwarz/jordan-peterson-the-pursuit-of-meaning-and-related-axioms)
@@ -39,6 +41,30 @@ This page is WIP
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 3](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-3)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
+
+### [The aggregate function - from sequential and parallel folds to parallel aggregation - Java and Scala](https://www.slideshare.net/pjschwarz/the-aggregate-function-from-sequential-and-parallel-folds-to-parallel-aggregation-java-and-scala)
+
+---
+
+![The aggregate function - from sequential and parallel folds to parallel aggregation - Java and Scala](images/the-aggregate-function-from-sequential-and-parallel-folds-to-parallel-aggregation-java-and-scala.png?raw=true)
+
+---
+
+### [Nat, List and Option Monoids - from scratch - Combining and Folding - an example](https://www.slideshare.net/pjschwarz/nat-list-and-option-monoids-from-scratch-combining-and-folding-an-example)
+
+---
+
+![Nat, List and Option Monoids - from scratch -Combining and Folding - an example](images/Nat-List-and-Option-Monoids-from-scratch-Combining-and-Folding-an example.png?raw=true)
+
+---
+
+### [The Sieve of Eratosthenes - Part 2](https://www.slideshare.net/pjschwarz/the-sieve-of-eratosthenes-part-ii-genuine-versus-unfaithful-sieve-haskell-and-scala)
+
+---
+
+![The Sieve of Eratosthenes - Part 2](images/sieve-of-eratosthenes-part-2.png?raw=true)
+
+---
 
 ### [Sum and Product Types - The Fruit Salad & Fruit Snack Example - From F# to Haskell, Scala and Java](https://www.slideshare.net/pjschwarz/sum-and-product-types-the-fruit-salad-fruit-snack-example-from-f-to-haskell-scala-and-java)
 
@@ -274,6 +300,9 @@ This page is WIP
 
 ## List of Slide Deck Series <a name="list-of-slide-deck-series"></a>
 
+* The Sieve of Eratosthenes
+[Part 1](https://www.slideshare.net/pjschwarz/the-sieve-of-eratosthenes-part-1) -
+[Part 2](https://www.slideshare.net/pjschwarz/the-sieve-of-eratosthenes-part-ii-genuine-versus-unfaithful-sieve-haskell-and-scala) -
 * Computer Graphics in Java and Scala 
 [Part 1](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1) -
 [Part 1b](https://www.slideshare.net/pjschwarz/computer-graphics-in-java-and-scala-part-1b)

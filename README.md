@@ -54,7 +54,7 @@ This page is WIP
 
 ---
 
-![Nat, List and Option Monoids - from scratch -Combining and Folding - an example](images/Nat-List-and-Option-Monoids-from-scratch-Combining-and-Folding-an example.png?raw=true)
+![Nat, List and Option Monoids - from scratch -Combining and Folding - an example](images/Nat-List-and-Option-Monoids-from-scratch-Combining-and-Folding-an-example.png?raw=true)
 
 ---
 

@@ -299,7 +299,7 @@ This page is WIP
 
 ---
 
-![Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 4](folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4.png)
+![Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 4](images/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4.png)
 
 ---
 

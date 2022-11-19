@@ -36,10 +36,11 @@ This page is WIP
 * [Scala 3 enum for a terser Option Monad Algebraic Data Type](https://www.slideshare.net/pjschwarz/scala-3-enum-for-a-terser-option-monad-algebraic-data-type)
 * [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 5](https://www.slideshare.net/pjschwarz/https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-5)
 * [The Functional Programming Triad of Folding, Scanning and Iteration - a first example in Scala and Haskell - Polyglot FP for Fun and Profit](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-folding-scanning-and-iteration-a-first-example-in-scala-and-haskell-polyglot-fp-for-fun-and-profit)
+* [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 4](https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
+* [The Functional Programming Triad of fold, scan and iterate](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-fold-scan-and-iterate) 
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 1](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-1)
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 2](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-2)
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 3](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-3)
-* [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 4](https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
 
@@ -280,6 +281,14 @@ This page is WIP
 ---
 
 ![Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 4](images/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4.png)
+
+---
+
+### [The Functional Programming Triad of fold, scan and iterate](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-fold-scan-and-iterate)
+
+---
+
+![The Functional Programming Triad of fold, scan and iterate](images/the-functional-trogramming-triad-of-fold-scan-and-iterate.png)
 
 ---
 

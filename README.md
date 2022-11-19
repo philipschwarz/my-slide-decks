@@ -39,6 +39,7 @@ This page is WIP
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 1](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-1)
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 2](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-2)
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 3](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-3)
+* [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 4](https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
 
@@ -295,6 +296,14 @@ This page is WIP
 ---
 
 ![Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 3](images/game-of-life-polyglot-fp-haskell-scala-unison-part-3.png)
+
+---
+
+![Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 4](folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4.png)
+
+---
+
+### [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 4](https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
 
 ---
 

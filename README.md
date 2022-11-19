@@ -38,6 +38,7 @@ This page is WIP
 * [The Functional Programming Triad of Folding, Scanning and Iteration - a first example in Scala and Haskell - Polyglot FP for Fun and Profit](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-folding-scanning-and-iteration-a-first-example-in-scala-and-haskell-polyglot-fp-for-fun-and-profit)
 * [Folding Unfolded - Polyglot FP for Fun and Profit - Haskell and Scala - Part 4](https://www.slideshare.net/pjschwarz/folding-unfolded-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-4)
 * [The Functional Programming Triad of fold, scan and iterate](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-fold-scan-and-iterate) 
+* [Folding a list right and left using cons and nil results in the identity and reverse functions](https://www.slideshare.net/pjschwarz/folding-a-list-right-and-left-using-cons-and-nil-results-in-the-identity-and-reverse-functions)
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 1](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-1)
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 2](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-2)
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 3](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-3)
@@ -289,6 +290,14 @@ This page is WIP
 ---
 
 ![The Functional Programming Triad of fold, scan and iterate](images/the-functional-trogramming-triad-of-fold-scan-and-iterate.png)
+
+---
+
+### [Folding a list right and left using cons and nil results in the identity and reverse functions](https://www.slideshare.net/pjschwarz/folding-a-list-right-and-left-using-cons-and-nil-results-in-the-identity-and-reverse-functions)
+
+---
+
+![Folding a list right and left using cons and nil results in the identity and reverse functions](images/folding-a-list-right-and-left-using-cons-and-nil-results-in-the-identity-and-reverse-functions.png)
 
 ---
 

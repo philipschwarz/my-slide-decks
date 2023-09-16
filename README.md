@@ -7,6 +7,7 @@ This page is WIP
 * [List of Slide Deck Series](#list-of-slide-deck-series)
 
 ## Hyperlinked titles (sorted by publication date) <a name="hyperlinked-title"></a>
+* [N-Queens Combinatorial Puzzle Meets Cats](http://fpilluminated.com/assets/n-queens-combinatorial-puzzle-meets-cats.html)
 * [The aggregate function - from sequential and parallel folds to parallel aggregation - Java and Scala](https://www.slideshare.net/pjschwarz/the-aggregate-function-from-sequential-and-parallel-folds-to-parallel-aggregation-java-and-scala)
 * [Nat, List and Option Monoids - from scratch - Combining and Folding - an example](https://www.slideshare.net/pjschwarz/nat-list-and-option-monoids-from-scratch-combining-and-folding-an-example)
 * [The Sieve of Eratosthenes - Part 2](https://www.slideshare.net/pjschwarz/the-sieve-of-eratosthenes-part-ii-genuine-versus-unfaithful-sieve-haskell-and-scala)
@@ -44,6 +45,12 @@ This page is WIP
 * [Game of Life - Polyglot FP - Haskell - Scala - Unison - Part 3](https://www.slideshare.net/pjschwarz/game-of-life-polyglot-fp-haskell-scala-unison-part-3)
 
 ## Hyperlinked titles, each accompanied by first slide (sorted by publication date) <a name="hyperlinked-title-plus-first-slide"></a>
+
+### [N-Queens Combinatorial Puzzle Meets Cats](http://fpilluminated.com/assets/n-queens-combinatorial-puzzle-meets-cats.html)
+
+---
+
+![N-Queens Combinatorial Puzzle Meets Cats](images/2023-08-03-n-queens-combinatorial-puzzle-meets-cats-large.png?raw=true)
 
 ### [The aggregate function - from sequential and parallel folds to parallel aggregation - Java and Scala](https://www.slideshare.net/pjschwarz/the-aggregate-function-from-sequential-and-parallel-folds-to-parallel-aggregation-java-and-scala)
 
